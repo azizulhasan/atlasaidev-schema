@@ -1,0 +1,20 @@
+    {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "headline": "Free text to speech (TTS) plugin for WordPress",
+      "image": [
+        "https://atlasaidev.com/wp-content/uploads/2023/10/banner-772x250-2.jpg.webp"
+      ],
+      "articleBody": "Add functionality to WordPress site to read blogs out loud in more than 20 languages. There is no need to create an account; it’s completely free. Just install the plugin and enjoy the whole features of the plugin.",
+      "datePublished": "2023-08-05T08:00:00+08:00",
+      "dateModified": "2024-01-23T08:00:00+08:00",
+      "author": {
+        "@type": "Person",
+        "name": "Atlas AiDev",
+        "url": "https://atlasaidev.com/author/azizulhasan/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Atlas AiDev"
+      }
+    }

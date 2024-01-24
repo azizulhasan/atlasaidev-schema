@@ -1,0 +1,76 @@
+    {
+      "@context": "http://schema.org",
+      "@type": "Product",
+      "name": "Text-to-Speech Pro",
+      "image": "https://atlasaidev.com/wp-content/uploads/2023/10/banner-772x250-2.jpg",
+      "description": "Add functionality to WordPress site to read blogs out loud in more than 20 languages. There is no need to create an account it’s completely free. Just install the plugin and enjoy the whole features of the plugin.",
+      "url": "http://atlasaidev.com/pricing/",
+      "brand": {
+        "@type": "Brand",
+        "name": "Atlas AiDev"
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "59",
+        "priceCurrency": "USD"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "reviewCount": "33"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "morbidlybeautiful"
+          },
+          "datePublished": "2024-01-01",
+          "reviewBody": "This is such an immeasurably valuable tool and a significant enhancement to my site. I love how much more accessible it makes the site without requiring a large financial investment. It is simple and streamlined, but that’s perfect because it does exactly what it’s supposed to and works like a charm."
+        },
+        {
+          "@type": "Review",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "elsazehra"
+          },
+          "datePublished": "2023-12-21",
+          "reviewBody": "I am expressing my satisfaction with the plugin, commending it’s exceptional features in the free version and acknowledging the prompt and supportive assistance from the customer support team."
+        },
+        {
+          "@type": "Review",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "fatau"
+          },
+          "datePublished": "2023-12-21",
+          "reviewBody": "Great Support, works perfectly !! THX for the great job!"
+        },
+        {
+          "@type": "Review",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "laenneuno"
+          },
+          "datePublished": "2023-11-21",
+          "reviewBody": "works all 5 stars"
+        }
+      ]
+    }
